@@ -1,51 +1,31 @@
-DesktopCoral
-https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
+# Ultimate Sidebar
+UltimateSidebar is a Custom Rainmeter Widget. You can get Raimmeter here: https://www.rainmeter.net/
 
-Win10WeatherMultilingual
+This Widget ist inspired by:
+Win10WeatherMultilingual:
 https://visualskins.com/skin/win10-weather-multilingual
 
-RainMeterSystemInfo
+RainMeterSystemInfo:
 https://www.reddit.com/r/Rainmeter/comments/2rnp1p/my_detailed_cpugpu_status_skin_oc/
 
-Lines2.0
+Lines2.0:
 https://www.deviantart.com/rasylver/art/Lines-2-0-154719861
 
+In combination with the DesktopCoral Software you'll be able to permanently reserve the space for the widget. As stated by DonationCoder.com: "DesktopCoral is an unusual program designed to "reserve" some portion of your desktop which is shielded from maximized applications..
 
+Essentially, it acts like an invisible resizeable docking bar, which can be docked to any side of your desktop. This invisible dock acts as a barrier to maximized applications and essentially shields this area of your desktop from other applications."
+DesktopCoral:
+https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
 
+INSTALLATION
 
+This skin requires you to have MSI Afterburner installed and running at all times.  It is recommended to have it start with Windows.
 
-
-
-DEPRECATED
-
-These are modified elements of the mii system skin 2 by abu46 on diviantart.  I do not claim to ownership of this skin, only the modification of it.
-
-The original mii system skin 2 can be found at: 
-http://abu46.deviantart.com/art/mii-system-skin-2-206965499
-
-You do not need to install the entire mii system skin 2 to use these customized pieces of the skin.
-
-----------------------------------------------
-
-This skin requires you to have MSI afterburner and Coretemp installed in your system and running in the background at all times.  It is recommended to have both programs start with windows.
-
-For MSI Afterburner, you must have the following enabled in the Settings->Monitoring menu:
-GPU temperature
-GPU usage
-Fan speed
-Core clock
-Memory clock
-Memory Usage
-Framerate
-GPU Voltage
-
-----------------------------------------------
-
-Put the "custom mii system skin 2" folder into C:\Documents\Rainmeter\Skins\
-
+Put the "RM_2019_UltimateSidebar" folder into C:\Documents\Rainmeter\Skins\
 
 Put the "MSIAfterburner.dll" into C:\Program Files\Rainmeter\Plugins\
 
------------------------------------------------
-
-This customization was made by http://www.reddit.com/user/Attomsk
+<p>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/Images/v0.5.0.png" width="440"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/Images/v0.5.5.png" width="440"/>
+</p>
