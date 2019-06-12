@@ -26,6 +26,6 @@ Put the "RM_2019_UltimateSidebar" folder into C:\Documents\Rainmeter\Skins\
 Put the "MSIAfterburner.dll" into C:\Program Files\Rainmeter\Plugins\
 
 <p>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/Images/v0.5.0.png" width="440"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/Images/v0.5.5.png" width="440"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.5.0.PNG" width="440"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.5.5.PNG" width="440"/>
 </p>
