@@ -1,5 +1,4 @@
 # Ultimate Sidebar
-<p align="center">
 UltimateSidebar is a custom Rainmeter widget.
 You can download Raimmeter here: https://www.rainmeter.net/
 
@@ -11,7 +10,7 @@ As stated by DonationCoder.com:
 
 You can get it here:
 https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
-</p>
+
 This Widget ist inspired by:
 Win10WeatherMultilingual:
 https://visualskins.com/skin/win10-weather-multilingual
