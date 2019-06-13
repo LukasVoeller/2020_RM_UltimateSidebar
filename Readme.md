@@ -1,13 +1,17 @@
 # Ultimate Sidebar
+<p align="center">
 UltimateSidebar is a custom Rainmeter widget.
 You can download Raimmeter here: https://www.rainmeter.net/
 
 In combination with the Software "DesktopCoral" you'll be able to permanently reserve the space for the widget.
-As stated by DonationCoder.com: "It acts like an invisible resizeable docking bar, which can be docked to any side of your desktop.
-This invisible dock acts as a barrier to maximized applications and essentially shields this area of your desktop from other applications."
+As stated by DonationCoder.com: 
+
+> "It acts like an invisible resizeable docking bar, which can be docked to any side of your desktop.
+> This invisible dock acts as a barrier to maximized applications and essentially shields this area of your desktop from other applications."
+
 You can get it here:
 https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
-
+</p>
 This Widget ist inspired by:
 Win10WeatherMultilingual:
 https://visualskins.com/skin/win10-weather-multilingual
@@ -27,7 +31,7 @@ Put the "RM_2019_UltimateSidebar" folder into C:\Documents\Rainmeter\Skins\
 
 Put the "MSIAfterburner.dll" into C:\Program Files\Rainmeter\Plugins\
 
-### Progress
+## Progress
 
 <p>
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.5.0.PNG" width="150" "v0.5.0"/>
