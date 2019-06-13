@@ -18,7 +18,7 @@ https://www.reddit.com/r/Rainmeter/comments/2rnp1p/my_detailed_cpugpu_status_ski
 Lines2.0:
 https://www.deviantart.com/rasylver/art/Lines-2-0-154719861
 
-INSTALLATION
+## Installation
 
 This skin requires you to have MSI Afterburner installed and running at all times.
 It is recommended to have it start with Windows.
@@ -26,6 +26,8 @@ It is recommended to have it start with Windows.
 Put the "RM_2019_UltimateSidebar" folder into C:\Documents\Rainmeter\Skins\
 
 Put the "MSIAfterburner.dll" into C:\Program Files\Rainmeter\Plugins\
+
+### Progress
 
 <p>
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.5.0.PNG" width="150" "v0.5.0"/>
