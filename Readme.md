@@ -33,10 +33,10 @@ Put the "MSIAfterburner.dll" into C:\Program Files\Rainmeter\Plugins\
 ## Progress
 
 <p>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.5.0.PNG" width="167" "v0.5.0"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.5.5.PNG" width="167" "v0.5.5"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.0.PNG" width="167" "v0.6.0"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.1.PNG" width="167" "v0.6.1"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.2.PNG" width="167" "v0.6.2"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.5.0.PNG" width="169" "v0.5.0"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.5.5.PNG" width="169" "v0.5.5"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.0.PNG" width="169" "v0.6.0"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.1.PNG" width="169" "v0.6.1"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.2.PNG" width="169" "v0.6.2"/>
 
 </p>
