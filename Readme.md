@@ -11,18 +11,18 @@ As stated by DonationCoder.com:
 You can get it here:
 https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
 
-This Widget ist inspired by:
+This Widget was made using the following sources:
 
-Win10WeatherMultilingual:
+- Win10WeatherMultilingual:
 https://visualskins.com/skin/win10-weather-multilingual
 
-RainMeterSystemInfo:
+- RainMeterSystemInfo:
 https://www.reddit.com/r/Rainmeter/comments/2rnp1p/my_detailed_cpugpu_status_skin_oc/
 
-Lines2.0:
+- Lines2.0:
 https://www.deviantart.com/rasylver/art/Lines-2-0-154719861
 
-Spotify Control:
+- Spotify Control:
 https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-Skin-v4-2-594025385
 
 ## Installation
