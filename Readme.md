@@ -27,15 +27,14 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 ## Installation
 
-This skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows.
-Additionaly you need to have the Rainmeter widget Spicetify installed. Open Spicetify and make sure the WebNowPlaying Companion in the second Extension tab is checked, in order to make the Spotify Controlls work. You can download Spicetify here:
+1. This skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows. You can get it here: https://www.msi.com/page/afterburner
+
+2. Additionaly you need to have the Rainmeter widget Spicetify installed. Open Spicetify and make sure the "WebNowPlaying Companion" in the second Extension tab is checked, in order to make the Spotify Controlls work. You can download Spicetify here:
 https://github.com/khanhas/Spicetify
 
-Put the "RM_2019_UltimateSidebar" folder into C:\Documents\Rainmeter\Skins\
+3. Put the "MSIAfterburner.dll" into C:\Program Files\Rainmeter\Plugins\
 
-Put the "MSIAfterburner.dll" into C:\Program Files\Rainmeter\Plugins\
-
-## Progress
+## Images
 
 <p>
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1changeLocation.PNG" width="169" "v0.7.1changeLocation"/>
