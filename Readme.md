@@ -49,7 +49,8 @@ You can download Spicetify here: https://github.com/khanhas/Spicetify
 </p>
 
 ## Images
-
-<img align="left" src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1an.PNG" width="200" "v0.7.1an"/>
-<img align="center" src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1bn.PNG" width="200" "v0.7.1bn"/>
-<img align="right" src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1cn.PNG" width="201" "v0.7.1cn"/>
+<p>
+  <img align="left" src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1an.PNG" width="200" "v0.7.1an"/>
+  <img align="center" src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1bn.PNG" width="200" "v0.7.1bn"/>
+  <img align="right" src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1cn.PNG" width="201" "v0.7.1cn"/>
+</p>
