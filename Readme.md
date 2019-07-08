@@ -38,8 +38,8 @@ Put the "MSIAfterburner.dll" into C:\Program Files\Rainmeter\Plugins\
 ## Progress
 
 <p>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.5.5.PNG" width="169" "v0.5.5"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.1.PNG" width="169" "v0.6.1"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1changeLocation.PNG" width="169" "v0.7.1changeLocation"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1loadWeather.PNG" width="169" "v0.7.1loadWeather"/>
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1a.PNG" width="169" "v0.7.1a"/>
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1b.PNG" width="169" "v0.7.1b"/>
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1c.PNG" width="169" "v0.7.1c"/>
