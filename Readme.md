@@ -49,13 +49,13 @@ You can download Spicetify here: https://github.com/khanhas/Spicetify
 </p>
 
 ## Images
-<p align="left">
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1an.PNG" width="200" "v0.7.1an"/>
+<p>
+  <img align="left" src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1an.PNG" width="200" "v0.7.1an"/>
 </p>
 <p align="center">
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1bn.PNG" width="200" "v0.7.1bn"/>
 </p>
-<p align="right">
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1cn.PNG" width="201" "v0.7.1cn"/>
+<p>
+  <img align="right" src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1cn.PNG" width="201" "v0.7.1cn"/>
 </p>
 
