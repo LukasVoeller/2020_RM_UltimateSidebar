@@ -28,6 +28,11 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 ## Installation
 
 1. For the graphics card info this skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows. You can get it here: https://www.msi.com/page/afterburner
+  1.1 Put the "MSIAfterburner.dll" from "RM_2019_UltimateSidebar\Setup" into "C:\Program Files\Rainmeter\Plugins"
+
+<p>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/GraphicsCard.PNG" width="200" "GraphicsCard.PNG"/>
+</p>
 
 2. Additionaly for the spotify controls and informationn you need to have the Rainmeter widget "Spicetify" installed.
 You can download Spicetify here: https://github.com/khanhas/Spicetify
@@ -38,17 +43,19 @@ You can download Spicetify here: https://github.com/khanhas/Spicetify
   2.4 Hit apply
   
 <p>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="200" "InkedSpicetify.jpg"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="600" "InkedSpicetify.jpg"/>
 </p>
 
-3. Put the "MSIAfterburner.dll" from "RM_2019_UltimateSidebar\Setup" into "C:\Program Files\Rainmeter\Plugins"
+3. If you want to reserve some screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
+
+<p>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/DesktopCoral_Settings.PNG" width="200" "DesktopCoral_Settings.PNG"/>
+</p>
 
 ## Images
 
 <p>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1changeLocation.PNG" width="169" "v0.7.1changeLocation"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1loadWeather.PNG" width="169" "v0.7.1loadWeather"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1a.PNG" width="169" "v0.7.1a"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1b.PNG" width="169" "v0.7.1b"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1c.PNG" width="169" "v0.7.1c"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1an.PNG" width="169" "v0.7.1an"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1bn.PNG" width="169" "v0.7.1bn"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1cn.PNG" width="169" "v0.7.1cn"/>
 </p>
