@@ -1,6 +1,6 @@
 # Ultimate Sidebar
 UltimateSidebar is a custom Rainmeter widget.
-You can download Raimmeter here: https://www.rainmeter.net/
+You can get Raimmeter here: https://www.rainmeter.net/
 
 In combination with the Software "DesktopCoral" you'll be able to permanently reserve the space for the widget.
 As stated by DonationCoder.com: 
@@ -12,6 +12,7 @@ You can get it here:
 https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
 
 This Widget ist inspired by:
+
 Win10WeatherMultilingual:
 https://visualskins.com/skin/win10-weather-multilingual
 
@@ -38,5 +39,4 @@ Put the "MSIAfterburner.dll" into C:\Program Files\Rainmeter\Plugins\
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.0.PNG" width="169" "v0.6.0"/>
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.1.PNG" width="169" "v0.6.1"/>
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.6.2.PNG" width="169" "v0.6.2"/>
-
 </p>
