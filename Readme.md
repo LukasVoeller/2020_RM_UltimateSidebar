@@ -55,7 +55,9 @@ You can download Spicetify here: https://github.com/khanhas/Spicetify
 ## Images
 
 <p>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1an.PNG" width="200" "v0.7.1an"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1bn.PNG" width="200" "v0.7.1bn"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1cn.PNG" width="200" "v0.7.1cn"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1a.PNG" width="169" "v0.7.1a"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1b.PNG" width="169" "v0.7.1b"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1c.PNG" width="169" "v0.7.1c"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1d.PNG" width="169" "v0.7.1d"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1e.PNG" width="169" "v0.7.1e"/>
 </p>
