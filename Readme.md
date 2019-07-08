@@ -45,7 +45,7 @@ You can download Spicetify here: https://github.com/khanhas/Spicetify
 3. If you want to reserve some screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
 
 <p>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/DesktopCoral_Settings.PNG" width="600" "DesktopCoral_Settings.PNG"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/DesktopCoral_Settings.PNG" width="400" "DesktopCoral_Settings.PNG"/>
 </p>
 
 ## Images
