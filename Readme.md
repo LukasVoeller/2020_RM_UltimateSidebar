@@ -39,7 +39,7 @@ You can download Spicetify here: https://github.com/khanhas/Spicetify
   2.4 Hit apply
   
 <p>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="800" "InkedSpicetify.jpg"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="1000" "InkedSpicetify.jpg"/>
 </p>
 
 3. If you want to reserve some screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
