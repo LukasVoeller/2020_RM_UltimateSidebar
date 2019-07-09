@@ -32,7 +32,7 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
   </tr>
   <tr>
     <td>Windows</td>
-    <td></td>
+    <td>0.7.1</td>
     <td><a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/raw/master/UltimateSidebar_0.7.1.rmskin">Download</a></td>
   </tr>
 </table>
