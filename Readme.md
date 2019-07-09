@@ -8,9 +8,6 @@ As stated by DonationCoder.com:
 > "It acts like an invisible resizeable docking bar, which can be docked to any side of your desktop.
 > This invisible dock acts as a barrier to maximized applications and essentially shields this area of your desktop from other applications."
 
-You can get it here:
-https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
-
 This Widget was made using the following sources:
 
 - Win10WeatherMultilingual:
@@ -31,8 +28,6 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 You can download MSI Afterburner here: https://www.msi.com/page/afterburner
 
-======
-
 2. For the spotify controls and information you need to have the Rainmeter widget "Spicetify" installed.
 After you have Spicetify installed, run it and perfrom the following steps:
 
@@ -50,13 +45,13 @@ After you have Spicetify installed, run it and perfrom the following steps:
 
 You can get Spicetify here: https://github.com/khanhas/Spicetify
 
----
-
 3. Additionally, if you want to reserve screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
 
 <p align="left">
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/DesktopCoral_Settings.PNG" width="400" "DesktopCoral_Settings.PNG"/>
 </p>
+
+Download Desktop Coral here: https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
 
 ## Images
 
