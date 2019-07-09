@@ -28,22 +28,22 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 You can download MSI Afterburner here: https://www.msi.com/page/afterburner
 
-1. For the graphics card info this skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows. Once you have it installed, move the MSIAfterburner.dll from "RM_2019_UltimateSidebar\Setup" into "C:\Program Files\Rainmeter\Plugins"
+For the graphics card info this skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows. Once you have it installed, move the MSIAfterburner.dll from "RM_2019_UltimateSidebar\Setup" into "C:\Program Files\Rainmeter\Plugins"
 
 ### Spicetify
 
 You can get Spicetify here: https://github.com/khanhas/Spicetify
 
-2. For the spotify controls and information you need to have the Rainmeter widget "Spicetify" installed.
+For the spotify controls and information you need to have the Rainmeter widget "Spicetify" installed.
 After you have Spicetify installed, run it and perfrom the following steps:
 
-    2.1 Create a backup of your current Spotify
+    1. Create a backup of your current Spotify
     
-    2.2 Uncheck the shit on the left side, unless you want to customize your spotify appearance
+    2. Uncheck the shit on the left side, unless you want to customize your spotify appearance
     
-    2.3 Make sure the "WebNowPlaying Companion" is checked on the second Extension tab
+    3. Make sure the "WebNowPlaying Companion" is checked on the second Extension tab
     
-    2.4 Hit apply
+    4. Hit apply
   
 <p align="left">
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="800" "InkedSpicetify.jpg"/>
@@ -53,7 +53,7 @@ After you have Spicetify installed, run it and perfrom the following steps:
 
 Download Desktop Coral here: https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
 
-3. Additionally, if you want to reserve screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
+Additionally, if you want to reserve screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
 
 <p align="left">
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/DesktopCoral_Settings.PNG" width="400" "DesktopCoral_Settings.PNG"/>
