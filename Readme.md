@@ -46,7 +46,7 @@ After you have Spicetify installed, run it and perfrom the following steps:
     4. Hit apply
   
 <p align="left">
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="800" "InkedSpicetify.jpg"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="1000" "InkedSpicetify.jpg"/>
 </p>
 
 ### Desktop Coral
