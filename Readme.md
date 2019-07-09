@@ -80,7 +80,7 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 ### MSI Afterburner
 
-For the graphics card info this skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows. Once you have it installed, move the MSIAfterburner.dll from "RM_2019_UltimateSidebar\Setup" into "C:\Program Files\Rainmeter\Plugins"
+For the graphics card info this skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows. Once you installed it, move the "MSIAfterburner.dll" from "RM_2019_UltimateSidebar\Setup" into "C:\Program Files\Rainmeter\Plugins"
 
 ### Spicetify
 
