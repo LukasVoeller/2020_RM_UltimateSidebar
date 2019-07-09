@@ -26,14 +26,34 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 <table align="center">
   <tr>
+    <th>Name</th>
     <th>Platform</th>
     <th>Version</th>
     <th>Download</td>
   </tr>
   <tr>
+    <td>MSI Afterburner</td>
     <td>Windows</td>
-    <td>0.7.1</td>
+    <td></td>
+    <td><a href="http://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip">Download</a></td>
+  </tr>
+   <tr>
+    <td>UltimateSidebar</td>
+    <td>Windows</td>
+    <td></td>
     <td><a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/raw/master/UltimateSidebar_0.7.1.rmskin">Download</a></td>
+  </tr>
+   <tr>
+    <td>Spicetify</td>
+    <td>Windows</td>
+    <td>1.7.7</td>
+    <td><a href="https://github.com/khanhas/Spicetify/releases/download/1.7.7/Spicetify_1.7.7.rmskin">Download</a></td>
+  </tr>
+   <tr>
+    <td>Desktop Coral</td>
+    <td>Windows</td>
+    <td>1.00.00</td>
+    <td><a href="https://www.donationcoder.com/Software/Mouser/desktopcoral/downloads/DesktopCoralSetup.exe">Download</a></td>
   </tr>
 </table>
 
@@ -51,13 +71,9 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 ### MSI Afterburner
 
-You can download MSI Afterburner here: https://www.msi.com/page/afterburner
-
 For the graphics card info this skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows. Once you have it installed, move the MSIAfterburner.dll from "RM_2019_UltimateSidebar\Setup" into "C:\Program Files\Rainmeter\Plugins"
 
 ### Spicetify
-
-You can get Spicetify here: https://github.com/khanhas/Spicetify
 
 For the spotify controls and information you need to have the Rainmeter widget "Spicetify" installed.
 After you have Spicetify installed, run it and perfrom the following steps:
@@ -75,8 +91,6 @@ After you have Spicetify installed, run it and perfrom the following steps:
 </p>
 
 ### Desktop Coral
-
-Download Desktop Coral here: https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
 
 Additionally, if you want to reserve screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
 
