@@ -69,8 +69,21 @@ Download Desktop Coral here: https://www.donationcoder.com/software/mouser/other
 
 ## Download
 
+<table align="center">
+  <tr>
+    <th>Platform</th>
+    <th>Version</th>
+    <th>Download</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>0.7.1</td>
+    <td><a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/raw/master/UltimateSidebar_0.7.1.rmskin">Download</a></td>
+  </tr>
+</table>
+
 | Platform        | Version           | Download  |
 | --------------- |:-----------------:| ---------:|
-| Windows         | 0.7.1             | <a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/raw/master/UltimateSidebar_0.7.1.rmskin" download="UltimateSidebar_0.7.1.rmskin">Download</a> |
+| Windows         | 0.7.1             |  |
 
 
