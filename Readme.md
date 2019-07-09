@@ -22,7 +22,22 @@ https://www.deviantart.com/rasylver/art/Lines-2-0-154719861
 - Spotify Control:
 https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-Skin-v4-2-594025385
 
-### Download
+### Download UltimateSidebar
+
+<table align="center">
+  <tr>
+    <th>Platform</th>
+    <th>Version</th>
+    <th>Download</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td></td>
+    <td><a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/raw/master/UltimateSidebar_0.7.1.rmskin">Download</a></td>
+  </tr>
+</table>
+
+### Download Setup
 
 <table align="center">
   <tr>
@@ -37,13 +52,7 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
     <td></td>
     <td><a href="http://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip">Download</a></td>
   </tr>
-   <tr>
-    <td>UltimateSidebar</td>
-    <td>Windows</td>
-    <td></td>
-    <td><a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/raw/master/UltimateSidebar_0.7.1.rmskin">Download</a></td>
-  </tr>
-   <tr>
+  <tr>
     <td>Spicetify</td>
     <td>Windows</td>
     <td>1.7.7</td>
