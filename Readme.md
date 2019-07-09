@@ -34,8 +34,11 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 You can download Spicetify here: https://github.com/khanhas/Spicetify
 
     2.1 Create a backup of your current Spotify
+    
     2.2 Uncheck the shit on the left side, unless you want to customize your spotify appearance
+    
     2.3 Make sure the "WebNowPlaying Companion" is checked on the second Extension tab
+    
     2.4 Hit apply
   
 <p align="center">
