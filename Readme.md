@@ -31,7 +31,7 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 You can download MSI Afterburner here: https://www.msi.com/page/afterburner
 
----
+======
 
 2. For the spotify controls and information you need to have the Rainmeter widget "Spicetify" installed.
 After you have Spicetify installed, run it and perfrom the following steps:
