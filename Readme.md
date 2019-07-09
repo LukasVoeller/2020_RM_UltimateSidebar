@@ -22,7 +22,7 @@ https://www.deviantart.com/rasylver/art/Lines-2-0-154719861
 - Spotify Control:
 https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-Skin-v4-2-594025385
 
-### Download UltimateSidebar
+#### Download UltimateSidebar
 
 <table align="center">
   <tr>
@@ -37,7 +37,7 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
   </tr>
 </table>
 
-### Download Setup
+#### Download Setup
 
 <table align="center">
   <tr>
