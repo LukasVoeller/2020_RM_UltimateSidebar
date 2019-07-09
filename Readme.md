@@ -99,7 +99,7 @@ After you have Spicetify installed, run it and perfrom the following steps:
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="1000" "InkedSpicetify.jpg"/>
 </p>
 
-### Desktop Coral
+### Desktop Coral (Optional)
 
 Additionally, if you want to reserve screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
 
