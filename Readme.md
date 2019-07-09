@@ -28,6 +28,8 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 You can download MSI Afterburner here: https://www.msi.com/page/afterburner
 
+---
+
 2. For the spotify controls and information you need to have the Rainmeter widget "Spicetify" installed.
 After you have Spicetify installed, run it and perfrom the following steps:
 
@@ -44,6 +46,8 @@ After you have Spicetify installed, run it and perfrom the following steps:
 </p>
 
 You can get Spicetify here: https://github.com/khanhas/Spicetify
+
+---
 
 3. Additionally, if you want to reserve screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
 
@@ -63,3 +67,6 @@ Download Desktop Coral here: https://www.donationcoder.com/software/mouser/other
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1e.PNG" width="170" "v0.7.1e"/>
 </p>
 
+## Download
+
+<a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/UltimateSidebar_0.7.1.rmskin" download="UltimateSidebar_0.7.1.rmskin">Download UltimateSidebar</a>
