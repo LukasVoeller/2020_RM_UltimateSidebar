@@ -32,10 +32,10 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 2. Additionaly for the spotify controls and informationn you need to have the Rainmeter widget "Spicetify" installed.
 You can download Spicetify here: https://github.com/khanhas/Spicetify
-...Create a backup of your current Spotify
-...Uncheck the shit on the left side, unless you want to customize your spotify appearance
-...Make sure the "WebNowPlaying Companion" is checked on the second Extension tab
-...Hit apply
+⋅⋅⋅Create a backup of your current Spotify
+⋅⋅⋅Uncheck the shit on the left side, unless you want to customize your spotify appearance
+⋅⋅⋅Make sure the "WebNowPlaying Companion" is checked on the second Extension tab
+⋅⋅2.3 Hit apply
   
 <p align="center">
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="800" "InkedSpicetify.jpg"/>
