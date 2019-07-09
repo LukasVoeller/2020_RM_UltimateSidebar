@@ -91,7 +91,7 @@ After you have Spicetify installed, run it and perfrom the following steps:
     
     2. Uncheck the shit on the left side, unless you want to customize your spotify appearance
     
-    3. Make sure the "WebNowPlaying Companion" is checked on the second Extension tab
+    3. Make sure the "WebNowPlaying Companion" is checked on the second Extension tab (Also Uncheck erverthing else you dont want to use)
     
     4. Hit apply
   
