@@ -26,11 +26,13 @@ https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-S
 
 ### MSI Afterburner
 
-1. For the graphics card info this skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows. Once you have it installed, move the MSIAfterburner.dll from "RM_2019_UltimateSidebar\Setup" into "C:\Program Files\Rainmeter\Plugins"
-
 You can download MSI Afterburner here: https://www.msi.com/page/afterburner
 
+1. For the graphics card info this skin requires you to have MSI Afterburner installed and running at all times. It is recommended to have it start with Windows. Once you have it installed, move the MSIAfterburner.dll from "RM_2019_UltimateSidebar\Setup" into "C:\Program Files\Rainmeter\Plugins"
+
 ### Spicetify
+
+You can get Spicetify here: https://github.com/khanhas/Spicetify
 
 2. For the spotify controls and information you need to have the Rainmeter widget "Spicetify" installed.
 After you have Spicetify installed, run it and perfrom the following steps:
@@ -47,9 +49,9 @@ After you have Spicetify installed, run it and perfrom the following steps:
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="800" "InkedSpicetify.jpg"/>
 </p>
 
-You can get Spicetify here: https://github.com/khanhas/Spicetify
-
 ### Desktop Coral
+
+Download Desktop Coral here: https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
 
 3. Additionally, if you want to reserve screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
 
@@ -57,15 +59,7 @@ You can get Spicetify here: https://github.com/khanhas/Spicetify
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/DesktopCoral_Settings.PNG" width="400" "DesktopCoral_Settings.PNG"/>
 </p>
 
-Download Desktop Coral here: https://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
-
 ## Images
-
-![screenshot 1](https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1a.PNG)
-![screenshot 1](https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1b.PNG)
-![screenshot 1](https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1c.PNG)
-![screenshot 1](https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1d.PNG)
-![screenshot 1](https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1e.PNG)
 
 <p align="center">
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1a.PNG" width="170" "v0.7.1a"/>
@@ -89,3 +83,6 @@ Download Desktop Coral here: https://www.donationcoder.com/software/mouser/other
     <td><a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/raw/master/UltimateSidebar_0.7.1.rmskin">Download</a></td>
   </tr>
 </table>
+
+## License
+[![forthebadge](http://forthebadge.com/images/badges/cc-0.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
