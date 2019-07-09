@@ -22,6 +22,31 @@ https://www.deviantart.com/rasylver/art/Lines-2-0-154719861
 - Spotify Control:
 https://www.deviantart.com/fuckyeahlucas/art/Spotify-Control-WORKING-Rainmeter-Skin-v4-2-594025385
 
+### Download
+
+<table align="center">
+  <tr>
+    <th>Platform</th>
+    <th>Version</th>
+    <th>Download</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>0.7.1</td>
+    <td><a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/raw/master/UltimateSidebar_0.7.1.rmskin">Download</a></td>
+  </tr>
+</table>
+
+## Images
+
+<p align="center">
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1a.PNG" width="170" "v0.7.1a"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1b.PNG" width="169" "v0.7.1b"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1c.PNG" width="169" "v0.7.1c"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1d.PNG" width="169" "v0.7.1d"/>
+  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1e.PNG" width="170" "v0.7.1e"/>
+</p>
+
 ## Installation
 
 ### MSI Afterburner
@@ -58,31 +83,6 @@ Additionally, if you want to reserve screenspace permanently for the widget, use
 <p align="left">
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/DesktopCoral_Settings.PNG" width="400" "DesktopCoral_Settings.PNG"/>
 </p>
-
-## Images
-
-<p align="center">
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1a.PNG" width="170" "v0.7.1a"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1b.PNG" width="169" "v0.7.1b"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1c.PNG" width="169" "v0.7.1c"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1d.PNG" width="169" "v0.7.1d"/>
-  <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/v0.7.1e.PNG" width="170" "v0.7.1e"/>
-</p>
-
-## Download
-
-<table align="center">
-  <tr>
-    <th>Platform</th>
-    <th>Version</th>
-    <th>Download</td>
-  </tr>
-  <tr>
-    <td>Windows</td>
-    <td>0.7.1</td>
-    <td><a href="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/raw/master/UltimateSidebar_0.7.1.rmskin">Download</a></td>
-  </tr>
-</table>
 
 ## License
 [![forthebadge](http://forthebadge.com/images/badges/cc-0.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
