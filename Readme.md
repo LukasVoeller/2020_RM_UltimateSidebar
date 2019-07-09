@@ -34,21 +34,18 @@ You can download MSI Afterburner here: https://www.msi.com/page/afterburner
 ---
 
 2. For the spotify controls and information you need to have the Rainmeter widget "Spicetify" installed.
-
-You can get Spicetify here: https://github.com/khanhas/Spicetify
 After you have Spicetify installed, run it and perfrom the following steps:
 
     2.1 Create a backup of your current Spotify
-    
     2.2 Uncheck the shit on the left side, unless you want to customize your spotify appearance
-    
     2.3 Make sure the "WebNowPlaying Companion" is checked on the second Extension tab
-    
     2.4 Hit apply
   
 <p align="left">
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/InkedSpicetify.jpg" width="800" "InkedSpicetify.jpg"/>
 </p>
+
+You can get Spicetify here: https://github.com/khanhas/Spicetify
 
 ---
 
