@@ -1,4 +1,4 @@
-# Ultimate Sidebar
+# RM_2019_UltimateSidebar
 UltimateSidebar is a custom Rainmeter widget.
 You can get Raimmeter here: https://www.rainmeter.net/
 
