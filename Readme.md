@@ -101,7 +101,7 @@ After you have Spicetify installed, run it and perfrom the following steps:
 
 ### Desktop Coral (Optional)
 
-Additionally, if you want to reserve screenspace permanently for the widget, use as stated before "DesktopCoral" and set it up as shown in following image:
+Additionally, if you want to permanently reserve screenspace for the widget, use "DesktopCoral" and set it up as shown in following image:
 
 <p align="left">
   <img src="https://github.com/LukasVoeller/RM_2019_UltimateSidebar/blob/master/Images/DesktopCoral_Settings.PNG" width="400" "DesktopCoral_Settings.PNG"/>
