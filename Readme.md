@@ -1,4 +1,4 @@
-# RM_2019_UltimateSidebar
+# RM_2020_UltimateSidebar
 UltimateSidebar is a custom Rainmeter widget made for 1920x1080 desktops.
 You can get Raimmeter here: https://www.rainmeter.net/
 
